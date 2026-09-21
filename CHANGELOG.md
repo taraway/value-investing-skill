@@ -1,5 +1,15 @@
 # Changelog
 
+## [1.01](https://github.com/taraway/value-investing-skill/releases/tag/v1.01) — 2026-09-13
+
+相对 1.00：
+
+- 新增报告输出骨架：行情时间、现价、市值、股本、52 周、财报基准期、下一份可能改变指纹的文件
+- 开篇「必须先读的三件事」挡住 TTM PE 扭曲、市值小于现金但净负债更大等错读
+- 估值表补股权倍数与企业倍数必须同时给；一次性损益不得当锚
+- 终判五维表 + 操作含义；结尾固定缓存与数据局限
+- 收到代码直接出十二模块，不改问方法
+
 ## [1.00](https://github.com/taraway/value-investing-skill/releases/tag/v1.00) — 2026-09-13
 
 首次发布。
