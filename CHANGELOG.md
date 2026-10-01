@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.02](https://github.com/taraway/value-investing-skill/releases/tag/v1.02) — 2026-09-21
+
+相对 1.01：
+
+- 估值章强制 **下一财年全球销售与利润预估**（分项收入 → 营收 → 跨周期利润率 → Forward 估值）；公司指引只核对，不抄成预测
+- 该预估表是期权价位的基本面锚；没有这张表不准编行权价
+- 期权改为价位表：Sell Put 至少三档接货带；Sell Call 至少两档抛货带。现价不在低估带则不卖平值 Put；A 股整段省略、禁止裸卖不变
+
 ## [1.01](https://github.com/taraway/value-investing-skill/releases/tag/v1.01) — 2026-09-13
 
 相对 1.00：
