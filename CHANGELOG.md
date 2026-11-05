@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.03](https://github.com/taraway/value-investing-skill/releases/tag/v1.03) — 2026-11-06
+
+相对 1.02：
+
+- 行情快照仍用于核验当前价格和估值，但报告正文不再展示行情时间或行情抓取时间
+- 文首改为明确展示财报基准期、财报发布时间/公告日和来源；未找到最新财报时必须说明
+- 保留行情来源、币种、市场和休市状态等必要口径，避免把行情时间误读为财报时间
+
 ## [1.02](https://github.com/taraway/value-investing-skill/releases/tag/v1.02) — 2026-09-21
 
 相对 1.01：
